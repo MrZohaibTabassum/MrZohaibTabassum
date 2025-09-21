@@ -1,4 +1,4 @@
-👨‍💻 Final Year Software Engineering Student at UMT Pakistan | Focused on AI/ML, Data Science, Web Development & DSA | Skilled in Python, C++, Dart, Flutter, FastAPI, NumPy, Pandas & OpenCV  
+👨‍💻 Final Year Software Engineering Student at UMT Pakistan | Focused on AI/ML, Data Science, Web Development & DSA | Skilled in Python, C++, FastAPI, NumPy, Pandas & OpenCV  
 
 # 💫 About Me:
 Passionate Software Engineer specializing in **AI/ML, Data Science, and Problem Solving**.  
@@ -14,8 +14,6 @@ Strong foundation in **algorithms & data structures**, always learning and build
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
